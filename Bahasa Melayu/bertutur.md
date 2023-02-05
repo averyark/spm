@@ -1,4 +1,4 @@
-## Idea dan Tips untuk ujian bertutur SPM
+## Idea dan Tips untuk SPM ujian bertutur bahagian B
 
 ---
 
@@ -147,9 +147,21 @@
 
 **Idea**
 
+- **[Langkah]** Permasalahan kemalangan jalan raya adalah satu isu yang serius serta membawakan banyak kesan negatif. Kerajaan masih mempunyai tanggungjawab untuk melakukan tindakan efektif bagi mengurangkan kadar kemalangan jalan raya. Langkah-langkah efektif seperti:
+  - Membaikan keadaan jalan dan infrastruktur jalan raya bagi mengurangkan kadar kemalangan yang berlaku di jalan raya.
+  - Memberikan pendidikan dan kesedaran kepada pengguna jalan raya, bukan sahaja pemandu kereta yang perlu diberikan pendidikan ini, pemandu bisikal, pemandu motorsikal, orang pejalan kaki begitu juga mesti mengetahui langkah dan peraturan ketika menggunakan jalan raya.
+  - Penegasan undang-undang untuk menghidarkan Pemamdu megamuk jalan raya atau pemandu mabuk. Pemandu mabuk serta pemamdu megamuk membahayakan pemandu atau orang lain yang berada di kalangan jalan raya
+
 ---
 
 **Kosa Kata**
+
+- Permasalahan `问题`
+- Kemalangan `事故`
+- Kadar `率`
+- Penegasan undang-undang `法律断言`
+- Megamuk jalan raya `路怒症`
+- Pemandu mabuk `酒驾`
 
 ---
 
@@ -162,11 +174,12 @@
 Ulaskan pernyataan tersebut.
 
 `邻里精神在当今社会的规范中正在消退。 这个问题不容忽视，因为这种精神为马来西亚家庭的发展带来许多好处`
-Menyambutkan perayaan kebangsaan seperti
 
 ---
 
 **Idea**
+
+- Menyambutkan perayaan kebangsaan seperti
 
 ---
 
@@ -178,12 +191,40 @@ Menyambutkan perayaan kebangsaan seperti
 
 **Tips**
 
-- Mengapakah perkara ini terjadi?
+- 用马来文的 Kata hubung 连接词！
 
-`为什么会这样？`
+  - Jadi
+  - Bagi
+  - Jika
+  - Serta
 
-- Terima kasih (siapa)， saya rasa pandangan kamu sangat menarik
+- 怎样开始？
 
-`谢谢你（谁），你觉得的观点很有意思`
+  - 如果你是第一个人, 你可以这样开始：Kami hari ini akan membingcangkan tentang (langkah/usaha, kesan negatif/kesan positif, punca)(topik). 想一个合适的 pendahuluan
+  - 如果你不是第一个人，轮到你的时候可以这样开始：Terima kasih (siapa)， saya bersetuju dengan pandangan kamu. Tapi saya akan menambahkan isu...
 
-- Itu pandangan saya. (siapa), apakah pendapat kamu?
+- 尽量启发并帮助不说话或者卡顿的队友，比如你可以说
+
+  - Mengapakah perkara ini terjadi? (punca)
+
+    `为什么会这样？`
+
+  - Apa tindakan yang boleh diambil bagi ...（langkah）
+
+    `可以采取什么行动来...`
+
+  - Apa-apa kesan akan berlaku? (Kesan)
+
+    `会产生什么影响？`
+
+- 当某个人结束后续上，或者你被对方提名了
+
+  - Terima kasih (siapa)， saya rasa pandangan kamu sangat menarik
+
+    `谢谢你（谁），你觉得的观点很有意思`
+
+- 当你想不到或者想结束时：
+
+  - Itu pandangan saya. (Saudara/Saudari), apakah pendapat kamu?
+
+    `这个是我的看法。Saudara、Saudari，你的想法是什么？`
