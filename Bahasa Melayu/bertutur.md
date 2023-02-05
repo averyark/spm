@@ -1,3 +1,7 @@
+## Idea dan Tips untuk ujian bertutur SPM
+
+---
+
 <details>
     <summary> <b>1 - TEMA : BAHASA DAN KESUSASTERAAN 语言与文学 </b></summary>
 
@@ -101,8 +105,9 @@
 
 <details>
     <summary> <b>4  - TEMA :  BUDAYA 文化</b></summary>
+
 > Permainan tradisional semakin dipinggirkan oleh masyarakat Malaysia. Oleh hal yang demikian, pelbagai usaha untuk menyuburkan permainan tradisonal perlu dipertingkatkan.
-Bincangkan.
+> Bincangkan.
 
 `传统游戏逐渐被马来西亚社会边缘化。正因如此，培育传统游戏的各项工作有待提高。`
 
@@ -132,6 +137,7 @@ Bincangkan.
 
 <details>
     <summary> <b>5 - TEMA :  PENDIDIKAN 教育</b></summary>
+
 > Isu kemalangan jalan raya sukar untuk diatasi, namun kerajaan perlu mengambil langkah yang efektif bagi mengurangkan kadar kemalangan jalan raya.
 > Ulaskan pernyataan tersebut.
 
@@ -166,9 +172,9 @@ Menyambutkan perayaan kebangsaan seperti
 
 **Kosa Kata**
 
----
-
 </details>
+
+---
 
 **Tips**
 
