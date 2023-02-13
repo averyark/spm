@@ -66,3 +66,24 @@
 - It's a perfect jack of all trades device. For example, smartphones are highly connected, allowing users to access information and stay in touch with friends and family from anywhere. Other than that, smartphones also include incredible photo capturing capabilities.
 - In my opinion, I love my smartphone because of it's ability to strengthen my bond with my friends and family. For instance, it freezes memorable moments into photos. Furthermore, it connects me with them from virtually anywhere.
 - Smartphones are highly portable and compact, allowing me to carry it in a bag or pocket. This means I can be highly productive and connected anywhere I go.
+
+***
+**Question: `A holiday destination`**
+- Where you went for that holiday
+- What you did there
+- Why was the holiday memorable
+- Do you think it is good for people to go on holiday at a local destination (why / why not)
+
+**How I would answer**
+- My most memorable holiday was that one time I went to Cameron Highlands with my family
+- We vistited the tea plantations at Cameron Highland and the host patiently explaiend the process of cultivating tea. Apart from that, we also went strawberry picking and exploring the butterfly park.
+- Other than that, the most memorable part of the holiday was when we hiked in the lush jungles, the trip was just incredible and the sceneries are just breathtaking.
+- In my personal opinion, I think it's good for people to go on holiday at a local destination. There are plenty of holiday destinations and breathtaking sceneries in our country. Furthermore it's more convenient and economical, you can easily travel to these destinations compared to travelling abroad.
+
+***
+## Notes
+- Cohesive devices to link sentences:
+    - Apart from that, Aside from that, Other than that, Besides, Furthermore, Moreover, In addition, Most importantly
+    - In my personal opinion, In my humble opinion, The way I see it, From my perspective, From my point of view
+    - I suppose, I assume, I sense, I surmise, I reckon, I imagine, I envisage
+- Try not to stutter. When you're done with each bullet point, make sure to proceed to the bullet point and link your sentence appropiately with a cohesive device.
