@@ -13,7 +13,7 @@
 
 - My favourite film is a popular Japanese animated film called "Your Name"
 - The character which I like the most is one of the main character of the film: Taki Tachibana. He is a young teenage boy who is struggling to find his place in the world.
-- I admire Taki's journey towards empathy and self-discovery. Mainly because, he inspires me to seek out new experiences and approach the world with an open mind.
+- I admire Taki's journey towards empathy and self-discovery. Which inspires me to seek out new experiences and approach the world with an open mind.
 - In my opinion, this film is suitable for teenagers. The film teaches adolescents the power of human relations, and the importance of empathy.
 </details>
 
@@ -90,7 +90,7 @@
 
 <details>
     <summary><b>How I would answer</b></summary>
-    
+
 - My most memorable holiday was that one time I went to Cameron Highlands with my family
 - We vistited the tea plantations at Cameron Highland and the host patiently explaiend the process of cultivating tea. Apart from that, we also went strawberry picking and exploring the butterfly park.
 - Other than that, the most memorable part of the holiday was when we hiked in the lush jungles, the trip was just incredible and the sceneries are just breathtaking.
