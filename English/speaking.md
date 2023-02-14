@@ -27,8 +27,8 @@
 <details>
     <summary><b>How I would answer</b></summary>
 
-- My dream car is not a sports car like most people would but more of a minvan like Toyota Alphard.
-- The reason is because of the comfortable and spacious interior, a smooth and quiet ride, and most importantly advanced safety features. These features are perfect to keep my family comfortable and safe in a long sedentary road trip.
+- My dream car is not a sports car like most people but more of a minvan like Toyota Alphard.
+- It is because of the comfortable and spacious interior. Furthermore, it's smooth and quiet. Most importantly, it's equipped advanced safety features. These features are perfect to keep my family comfortable and safe in a long sedentary road trip.
 - The reliabity of such car inspired me.
 - I have to work extremely hard in order to afford the outstanding cost of fulfilling my dream 
 </details>
