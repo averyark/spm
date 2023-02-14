@@ -63,6 +63,7 @@
 - It was held on my grandmother's place.
 - I had a long talk with my cousins and since we only meet every few years. Other than that, we played traditional games and enjoyed the quality time we spent together.
 - Ultimately, I believe having a family day is crucial. Family day is a special occasion and the perfect oppoturnity to bond, create memories and strengthen your relationship with family members.
+</details>
 
 ***
 **Question: `Your favourite gadget`**
